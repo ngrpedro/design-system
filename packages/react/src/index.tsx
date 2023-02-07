@@ -1,13 +1,14 @@
-import { colors } from "@dps-ui/tokens"
+import { styled } from "./styles"
+
+const Button = styled("button", {
+  fontFamily: "$default",
+  backgroundColor: "$primary",
+  color: "$white",
+  borderRadius: "$px",
+  padding: "$4",
+  height: "$10",
+})
 
 export function App() {
-  return (
-    <h1
-      style={{
-        color: colors.primary,
-      }}
-    >
-      Hello Word
-    </h1>
-  )
+  return <Button>Button</Button>
 }

@@ -23,6 +23,7 @@
     "@dps-ui/eslint-config": "*",
     "@dps-ui/tokens": "*",
     "@dps-ui/ts-config": "*",
+    "@stitches/react": "^1.2.8",
     "tsup": "^6.6.0"
   }
 }
