@@ -26,8 +26,10 @@
   },
   "dependencies": {
     "@dps-ui/eslint-config": "*",
-    "@dps-ui/tokens": "*",
+    "@dps-ui/ts-config": "*",
     "@dps-ui/react": "*",
+    "@dps-ui/tokens": "*",
+    "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
