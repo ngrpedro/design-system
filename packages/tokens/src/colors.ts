@@ -12,7 +12,7 @@ export const colors = {
   gray900: '#121214',
 
   primary: '#00244A',
-  secundary: '#C33C54',
+  secondary: '#C33C54',
 
   blue100: '#8EE3EF',
 

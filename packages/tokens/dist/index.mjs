@@ -11,7 +11,7 @@ var colors = {
   gray800: "#202024",
   gray900: "#121214",
   primary: "#00244A",
-  secundary: "#C33C54",
+  secondary: "#C33C54",
   blue100: "#8EE3EF",
   green600: "#0C7C59",
   green100: "#AEF3E7"
@@ -48,7 +48,7 @@ var radii = {
 
 // src/fonts.ts
 var fonts = {
-  default: "Roboto, sans-serif",
+  default: "Poppins, sans-serif",
   code: "monospace"
 };
 
