@@ -25,6 +25,9 @@
     "vite": "^3.1.4"
   },
   "dependencies": {
+    "@dps-ui/eslint-config": "*",
+    "@dps-ui/tokens": "*",
+    "@dps-ui/react": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
